@@ -1,0 +1,23 @@
+{
+    "Highscore": {
+        "checkpoints": [
+            {
+                "steps": 872079,
+                "file_path": "results\\TESTING3\\Highscore\\Highscore-872079.onnx",
+                "reward": null,
+                "creation_time": 1616983376.216676
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 872079,
+            "file_path": "results\\TESTING3\\Highscore.onnx",
+            "reward": null,
+            "creation_time": 1616983376.216676
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
